@@ -1,16 +1,16 @@
-### Hi there 👋
+# Carlos Augusto
 
-<!--
-**oraculocs/oraculocs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/carlos-augusto-47a1764a/">
+<img align="right" alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-Carlos%20Augusto-blue"/>
+</a>
 
-Here are some ideas to get you started:
+<a href="http://oraculocs.github.io/">
+<img align="right" alt="Curriculo" title="Curriculo" src="https://img.shields.io/badge/-Meu%20Curriculo%20Vitae%20-red"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+<p align="center">
+  <img src="https://github.com/oraculocs/assets/blob/master/cv/home.JPG" />
+
+
