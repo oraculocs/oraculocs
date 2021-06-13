@@ -1,11 +1,11 @@
 # Carlos Augusto
 
 <a target="_blank" href="https://www.linkedin.com/in/carlos-augusto-47a1764a/">
-<img align="right" alt="LinkedIn" title="LinkedIn"  src="https://img.shields.io/badge/-LinkedIn%20-blue"/>
+  <img align="right" alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </a>
 
 <a target="_blank" href="http://oraculocs.github.io/">
-<img align="right" alt="Curriculo" title="Curriculo" src="https://img.shields.io/badge/-Meu%20Curriculo%20Vitae%20-red"/>
+  <img align="right" alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-Curriculum Vitae-%23EA4335?style=for-the-badge&logo=&logoColor=white" target="_blank">
 </a>
 
 <br>
