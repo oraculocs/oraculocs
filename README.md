@@ -25,7 +25,7 @@
   <img align="center" alt="HTML" title="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  <img align="right" alt="Rafa-yoda" height="120" width="120" src="https://media.giphy.com/media/lF1XZv45kIwMw/giphy.gif">
+  <img align="right" alt="Rafa-yoda" height="90" width="90" src="https://media.giphy.com/media/lF1XZv45kIwMw/giphy.gif">
 </div>
 
   ![Snake animation](https://github.com/oraculocs/oraculocs/blob/output/github-contribution-grid-snake.svg)
