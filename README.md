@@ -10,7 +10,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/oraculocs/assets/blob/master/cv/home.JPG" />
+  <img src="https://github.com/oraculocs/assets/blob/master/cv/homeAtualizado.JPG" />
   
 <div>
   <a href="https://github.com/oraculocs">
